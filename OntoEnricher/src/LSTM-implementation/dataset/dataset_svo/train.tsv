@@ -1,0 +1,2155 @@
+rsa conference	cryptography	True
+postini	security	True
+whitfield diffie	cryptographer	True
+taher elgamal	cryptographer	True
+bruce schneier	cryptographer	True
+smart grid	grid	False
+mariposa botnet	botnet	True
+waledac botnet	botnet	True
+ron rivest	cryptographer	True
+marid	ietf	True
+torpig	botnet	True
+crimeware	malware	False
+cutwail botnet	botnet	True
+melissa hathaway	expert	True
+samy kamkar	privacy	True
+virut	botnet	True
+asprox botnet	botnet	True
+trusted computing	technology	False
+cyber shockwave	wargame	True
+ghostery	privacy	True
+uniloc	security	False
+windows live onecare	security	True
+coolwebsearch	spyware	True
+adi shamir	cryptographer	True
+rustock botnet	botnet	True
+fortify software	vendor	True
+hsarpa	part	True
+sans institute	s	True
+cert coordination center	center	True
+chris wysopal	entrepreneur	True
+cybercrime	crime	False
+sophos	software	True
+bot herder	hackers	False
+mark russinovich	cto	False
+phil reitinger	deputy	True
+hp cloudsystem	infrastructure	False
+cerias	center	True
+tavis ormandy	hacker	True
+phishtank	phishtank	True
+antivirus software	software	False
+conficker	worm	False
+oxblood ruffin	hacker	True
+ransomware	malware	False
+cyberterrorism	act	False
+rop gonggrijp	hacker	True
+norton personal firewall	firewall	True
+seth schoen	technologist	True
+robert schifreen	hacker	True
+rsa bsafe	fips	True
+spyware	software	False
+sendmail	email	True
+dns spoofing	computer	False
+encase	technology	True
+markus jakobsson	researcher	True
+dan kaminsky	researcher	True
+artificial intelligence	intelligence	False
+mccolo	web	True
+mandiant	firm	True
+mark rasch	attorney	True
+philippe courtot	entrepreneur	True
+openbsd	computer	True
+vivek kundra	administrator	False
+windows cardspace	microsoft	True
+ibm	technology	True
+ashkan soltani	technologist	True
+dave aitel	computer	True
+yottaa	web	True
+stuxnet	worm	True
+lulzsec	computer	True
+lockheed martin	aerospace	True
+dan boneh	researcher	True
+infragard	organization	True
+disk encryption	technology	False
+darpa	agency	True
+rod beckstrom	author	True
+typhoid adware	threat	True
+vmware vmfs	vmware	True
+verizon communications	broadband	True
+pcmos	technology	False
+huawei	networking	True
+crime	security	False
+linux kernel	computer	False
+pwn2own	computer	True
+firstclass	groupware	True
+cisco ios	software	True
+project safe childhood	department	True
+joanna rutkowska	researcher	True
+marc rotenberg	president	True
+rsplug	malware	True
+black hat briefings	conference	True
+farid essebar	hacker	True
+welchia	worm	True
+supercomputer	computer	False
+stopbadware	organization	True
+bae systems	defence	True
+fibre channel	technology	False
+zotob	worm	True
+rowan trollope	president	False
+cybertrust	company	True
+hossein eslambolchi	innovator	False
+johannes ullrich	founder	True
+berico technologies	business	True
+symantec	company	True
+niels provos	researcher	True
+stateful firewall	firewall	False
+plesk	web	True
+invincea	venture	True
+ounce labs	waltham	True
+shmoocon	convention	False
+alureon	trojan	True
+foundstone	practice	True
+niprnet	network	False
+honeynet project	organization	True
+keystroke dynamics	information	False
+nik cubrilovic	hacker	True
+cloudlet	datacenter	False
+panda cloud antivirus	software	True
+sql slammer	worm	False
+domain name system	system	False
+google apps script	cloud	False
+zfone	software	True
+nortel	telecommunications	True
+wordpress.com	web	False
+ctera networks	storage	True
+milstar	constellation	False
+christopher soghoian	researcher	True
+cigital	firm	True
+shuman ghosemajumder	technologist	True
+david jevans	chairman	True
+david ulevitch	founder	True
+imperva	provider	True
+weev	hacker	True
+anton chuvakin	specialist	True
+directaccess	technology	False
+cobit	framework	False
+brendan eich	technologist	False
+little snitch	firewall	True
+sobig	worm	True
+cyberweapon	agent	False
+koobface	worm	True
+yast	linux	False
+winn schwartau	expert	True
+cpanel	web	False
+richard forno	consultant	True
+declan mccullagh	entrepreneur	False
+mydoom	worm	True
+ana montes	analyst	False
+natalya kaspersky	ceo	True
+cloud computing	kind	False
+cyberpatriot	program	True
+charles giancarlo	entrepreneur	False
+educause	association	False
+ronald deibert	professor	False
+george hotz	hacker	True
+edward felten	professor	False
+gentoo linux	computer	False
+bbc iplayer	internet	False
+riptech	company	True
+electronic frontier foundation	group	True
+p2p caching	technology	False
+quantum cryptography	science	False
+nuclear regulatory commission	agency	True
+orin kerr	professor	True
+cyveillance	company	True
+jonathan westhues	software	True
+firesheep	extension	True
+anyplace control	product	False
+openflow	protocol	False
+operation fastlink	coordination	True
+dmitri alperovitch	executive	True
+outsourcery	cloud	False
+jeffrey hunker	consultant	True
+asc x9	standards	False
+immunet	application	True
+avi rubin	expert	True
+hbgary	company	True
+mimail	worm	True
+federated identity	means	False
+wipro	strategy	False
+symantec endpoint protection	software	True
+trigeo network security	provider	True
+shlomo touboul	executive	True
+securecrt	ssh	True
+gene spafford	professor	True
+hillar aarelaid	ceo	True
+stratton sclavos	chairman	False
+norton antivirus	prevention	True
+red hat linux	linux	False
+gil shwed	programmer	True
+child pornography	pornography	False
+roger cressey	member	True
+intrushield	appliance	True
+mikeyy	worm	True
+computer forensics	branch	False
+ravmone.exe	trojan	True
+drupal	framework	True
+zrtp	protocol	False
+juniper networks	corporation	True
+alexander sotirov	researcher	True
+jennifer granick	attorney	False
+securityfocus	portal	True
+internet kill switch	cybercrime	False
+brightmail	company	False
+communicasia	information	False
+arcsight	company	True
+jart armin	investigator	True
+iain lobban	servant	False
+zachman framework	ontology	False
+widepoint corporation	company	False
+brian nesmith	entrepreneur	True
+netequalizer	bandwidth	False
+fortiva	software	True
+mdaemon	email	True
+okena	company	True
+cisco pix	firewall	True
+kip hawley	administrator	True
+moxie marlinspike	pseudonym	True
+algosec	provider	True
+daniel weitzner	director	True
+protectionism	policy	False
+prolexic technologies	s	True
+botnet	number	False
+freak	security	False
+mesh networking	topology	False
+macarthur fellows program	prize	False
+thinkpad tablet	computer	False
+adrian lamo	analyst	True
+patriot act	act	False
+proftpd	server	True
+meng weng wong	entrepreneur	False
+lorrie cranor	professor	True
+http compression	capability	False
+dasient	company	True
+cryptographic protocol	protocol	False
+anycast	network	False
+greynet	application	False
+national vulnerability database	repository	True
+trusted computing group	group	False
+rohit khare	entrepreneur	False
+cernet	education	False
+synchronization	coordination	False
+splinternet	characterization	False
+plaintext	information	False
+google	network	False
+cryptosystem	suite	False
+jay adelson	entrepreneur	False
+arpanet	packet	True
+bell labs	research	True
+ksplice	extension	False
+clearswift	company	True
+cryptography	practice	False
+chromebook	laptop	False
+hari balakrishnan	professor	False
+raytheon	contractor	True
+xoops	systems	False
+gaia online	networking	False
+nimbus data	software	False
+wired equivalent privacy	algorithm	False
+playready	technology	True
+afcea	association	True
+mac mini	computer	False
+axigen	server	True
+netfilter	framework	False
+cryptome	foundation	True
+blackdog	computer	False
+turing award	prize	False
+landwarnet	united	True
+david gorodyansky	entrepreneur	True
+leonard adleman	scientist	True
+firefox	browser	False
+techfest	science	False
+mocana	company	True
+privacy rights clearinghouse	corporation	False
+ip multimedia subsystem	framework	False
+certified ethical hacker	qualification	False
+cryptanalysis	study	False
+tcp offload engine	technology	False
+owasp	community	True
+kevin mitnick	consultant	True
+peter swire	j	False
+windows xp	computer	False
+deterministic encryption	cryptosystem	False
+naccache–stern cryptosystem	cryptosystem	False
+naccache–stern knapsack cryptosystem	cryptosystem	False
+ggh encryption scheme	cryptosystem	False
+cohen's cryptosystem	cryptosystem	False
+convergent encryption	cryptosystem	False
+itzik kotler	entrepreneur	True
+check point	provider	True
+security	degree	False
+embedded hypervisor	hypervisor	False
+ninite	software	False
+ceilidh	cryptosystem	True
+aruba networks	vendor	True
+domainkeys	system	False
+bureau of diplomatic security	security	True
+f-secure	security	True
+open vulnerability and assessment language	security	True
+open source tripwire	security	True
+payment card industry data security standard	security	True
+wi-fi protected setup	security	True
+collusion syndicate	security	True
+vlan hopping	security	False
+trustwave securebrowsing	security	True
+cisco security monitoring, analysis, and response system	security	True
+team elite	security	False
+return-oriented programming	security	False
+michael lawrie	security	True
+jit spraying	security	False
+cipurse	security	False
+todd levett	security	True
+william cheswick	security	True
+w00w00	security	True
+eric vanderburg	security	True
+national cyber coordination centre	security	True
+forensic toolkit	software	False
+veracode	company	True
+openssl	library	True
+vmworld	conference	False
+pervasive psql	dbms	False
+iscsi	acronym	False
+icloud	storage	False
+nasir memon	scientist	True
+cryptek	company	True
+vmware fusion	hypervisor	False
+asp.net	framework	False
+norton confidential	program	True
+microsoft fingerprint reader	device	True
+transnational crime	crimes	False
+openid	promoted	False
+marcia hofmann	attorney	False
+advanced encryption standard	specification	False
+virusbuster	vendors	True
+decss	programs	True
+sauce labs	web	False
+activex	framework	False
+bugtraq	list	False
+magicgate	technology	True
+debian	computer	False
+not just another bogus list	dns	False
+dnschanger	dns	False
+darknet	network	False
+spdy	protocol	False
+eugene kaspersky	specialist	True
+coverity	brand	True
+personal firewall	application	False
+ddos mitigation	set	False
+spideroak	us	True
+ultrabook	specification	False
+secure computing corporation	company	True
+andrew lih	researcher	False
+knujon	project	True
+john ashcroft	attorney	False
+chris hoofnagle	professor	True
+vupen	company	True
+tracesecurity	firm	True
+yossi sheffi	professor	False
+raid	technology	False
+mcafee siteadvisor	service	True
+browsealoud	technology	False
+nimda	file	True
+elon ganor	entrepreneur	True
+andreas antonopoulos	expert	False
+ghostnet	name	True
+europol	agency	False
+bbn technologies	company	False
+reconfigurable computing	architecture	False
+arbor networks	company	True
+basel iii	framework	False
+identity theft	use	False
+laptop	computer	False
+internet protocol	protocol	False
+informatics	science	False
+openvms	computer	False
+eben moglen	professor	False
+displaylink	semiconductor	False
+screenos	system	False
+ed gillespie	strategist	False
+common criteria	standard	False
+finjan	company	True
+trusteer	division	False
+https	protocol	False
+gumblar	file	True
+honeytoken	honeypots	True
+jxta	specification	False
+greg hoglund	author	True
+echelon	program	True
+xen	hypervisor	False
+freeswitch	software	False
+toolbook	scorm	False
+insteon	technology	False
+apache hadoop	framework	False
+elk cloner	viruses	True
+prevx	application	True
+extensible authentication protocol	framework	False
+fapsi	agency	True
+grammatech	vendor	True
+google chrome	browser	False
+backup exec	software	False
+graham cluley	blogger	True
+cyn.in	software	False
+unisys	company	False
+protected extensible authentication protocol	protocol	False
+fasthosts	provider	False
+zumodrive	synchronization	False
+sourceforge	service	False
+hetzner	internet	False
+greenborder	company	False
+spywareblaster	program	True
+telefónica	broadband	False
+blackworm	worm	True
+darkhotel	spyware	True
+rombertik	spyware	True
+oracle weblogic server	server	False
+systems integrator	person	False
+anonymizer	tool	False
+ari schwartz	director	True
+splunk	corporation	True
+rafal rohozinski	expert	True
+tufin	company	True
+daon, inc.	biometrics	True
+ironkey	name	True
+eurojust	agency	True
+morphos	computer	False
+3gpp	collaboration	True
+vmware workstation	hypervisor	False
+krishna palem	scientist	False
+biometric consortium	government	True
+fundamental rights agency	agency	False
+def con	world	True
+jon leibowitz	chairman	False
+brenno de winter	ict	False
+bluehat	term	True
+nsa suite a cryptography	cryptography	True
+id-based cryptography	cryptography	True
+hytrust	company	False
+freemium	strategy	False
+hany farid	professor	True
+authentication	act	False
+jeremy goldkorn	blogger	True
+dash7	sensor	False
+matt mullenweg	entrepreneur	False
+opswat	company	True
+opensocial	specification	False
+ibm lotus quickr	software	False
+rcis	organizations	False
+mega-d botnet	botnet	True
+donbot botnet	botnet	True
+grum botnet	botnet	True
+lethic botnet	botnet	True
+vulcanbot	botnet	True
+metulji botnet	botnet	True
+kelihos botnet	botnet	True
+nitol botnet	botnet	True
+festi botnet	botnet	True
+carna botnet	botnet	True
+mevade botnet	botnet	True
+gameover zeus	botnet	True
+battle.net	gaming	False
+shadowserver	group	True
+storm worm	horse	True
+common weakness enumeration	project	False
+kaspersky lab	group	True
+jasig	organization	False
+varonis systems	company	True
+fusepoint managed services	provider	False
+internet relay chat	protocol	False
+local egovernment	egovernment	False
+meru networks	supplier	False
+actiance	corporation	True
+doubleclick	subsidiary	False
+cyberoam	provider	True
+radware	provider	True
+yamanner	worm	True
+sender id	proposal	False
+turbogears	framework	False
+ankit fadia	author	True
+pseudonymity	state	False
+heuristic analysis	method	False
+aea	association	True
+kryptos	sculpture	True
+carnegie mellon university	university	False
+cisco nac appliance	system	False
+christopher tarnovsky	specialist	True
+spy sweeper	product	True
+cauce	group	False
+wireless lan	network	False
+puremessage	program	False
+boxbe	service	True
+goatse security	group	True
+virtualbox	hypervisor	False
+lastpass	service	False
+castlecops	community	True
+openldap	implementation	False
+nat traversal	methodology	False
+hypertext transfer protocol	protocol	False
+jonathan zittrain	professor	False
+phreaking	term	False
+sitekey	system	False
+rebecca mercuri	expert	True
+applied physics laboratory	center	False
+cryptographic message syntax	ietf	False
+json web signature	ietf	False
+loglogic	company	True
+gmail	service	False
+autorun	components	False
+isaca	association	True
+clam antivirus	toolkit	True
+ossec	system	True
+benny gantz	chief	False
+human trafficking	trade	False
+cruzer enterprise	usb	True
+parasoft	vendor	False
+evaluation assurance level	grade	False
+coreflood	horse	True
+hotspot shield	application	True
+https everywhere	extension	False
+lighttpd	server	False
+huawei symantec	developer	True
+avenda systems	start-up	True
+session initiation protocol	protocol	False
+laurence silberman	judge	False
+amdocs	software	False
+deborah platt majoras	chairman	False
+wardriving	act	False
+novell bordermanager	application	False
+globalstar	constellation	False
+marc maiffret	officer	True
+contactpoint	database	False
+usa.gov	portal	False
+6lowpan	acronym	False
+estdomains	website	False
+gawker	blog	False
+dns rebinding	form	False
+googlization	neologism	False
+bcwipe	utility	False
+ze'ev drori	entrepreneur	False
+seculert	company	True
+metadirectory	part	False
+xml	language	False
+whois	system	False
+lizamoon	piece	True
+avira	company	True
+hacktivismo	offshoot	True
+iloveyou	worm	True
+hacker dojo	center	True
+ccna	certification	True
+recaptcha	system	False
+clearancejobs	website	False
+dentrix	software	False
+sanjay parthasarathy	executive	True
+diginotar	authority	True
+anchorfree	company	True
+immunix	system	True
+pavan duggal	advocate	True
+twofish	cipher	True
+netcraft	company	True
+blackberry playbook	computer	False
+marc zwillinger	lawyer	False
+francis desouza	businessman	False
+fore systems	network	True
+leo kuvayev	spammer	False
+domainkeys identified mail	method	False
+chrome os	system	False
+virnetx	company	True
+aladdin knowledge systems	company	True
+neusoft	provider	True
+rsa (cryptosystem)	cryptosystems	True
+merkle–hellman knapsack cryptosystem	cryptosystems	True
+proxy re-encryption	cryptosystems	True
+optenet	company	True
+instant messaging	online	False
+nasscom	association	False
+file sharing	practice	False
+battlespace	term	False
+paul trevithick	cto	False
+theo de raadt	engineer	False
+securom	protection	True
+authorize.net	provider	False
+internet	system	False
+shavlik technologies	developers	False
+skype	application	False
+superantispyware	application	True
+3com	manufacturer	False
+dash7 alliance	group	False
+mikko hyppönen	expert	True
+c2.lop	malware	True
+kama sutra (computer worm)	malware	True
+targeted threat	malware	True
+spysheriff	malware	True
+3wplayer	malware	True
+gifar	malware	True
+flame (malware)	malware	True
+mahdi (malware)	malware	True
+zeroaccess botnet	malware	False
+notcompatible	malware	True
+keyraider	malware	True
+stegomalware	malware	True
+pricewaterhousecoopers	network	False
+arxan technologies	company	True
+greylock partners	firms	False
+alert standard format	dmtf	False
+carnet	research	False
+scareware	form	False
+gridsure	system	True
+unified extensible firmware interface	specification	False
+megapath	company	False
+computer service directorate	defense	False
+israeli intelligence corps	defense	False
+carl kesselman	fellow	False
+liquidhd	architecture	False
+frederick seitz	physicist	False
+wikileaks	organisation	False
+wuala	storage	False
+jamie gorelick	lawyer	False
+maxthon	browser	False
+gnutella	network	False
+great firewall	term	True
+telecommuting	arrangement	False
+bluesnarfing	access	False
+psiphon	system	True
+adobe flash player	software	False
+sanjay swamy	technologist	False
+airmagnet	company	True
+noscript	extension	False
+volunteer computing	computing	False
+microsoft azure web sites	computing	False
+maxware	provider	True
+intellisync	provider	True
+clay shirky	writer	False
+clickjacking	technique	False
+computer	device	False
+computer	device	False
+joulex	company	False
+cablecard	device	False
+eyeball chat	voip	False
+zonealarm	company	True
+janrain	provider	True
+xorp	protocol	False
+htc dream	smartphone	False
+npapi	interface	False
+multos	card	False
+toorcon	diego	True
+linoma software	developer	False
+fairplay	technology	False
+asp.net mvc	framework	False
+wiring closet	room	False
+milw0rm	group	True
+richard posner	jurist	False
+bitdefender	company	True
+martin mckeay	united	True
+kraken botnet	world	True
+tristan nitot	founder	False
+egress filtering	practice	False
+ibm websphere application server	product	False
+microsoft	company	False
+intego	company	True
+mozilla	community	False
+netiq	company	True
+bluetooth	technology	False
+digital watermarking	kind	False
+globus toolkit	toolkit	False
+fang binxing	principal	False
+fraunhofer society	organization	False
+illumio	data	True
+jacob appelbaum	journalist	False
+wan optimization	collection	False
+consumer watchdog	organization	False
+javascript	language	False
+smoothwall	company	True
+ryan pitylak	entrepreneur	False
+windows genuine advantage	system	False
+hacktivism	use	False
+qemu	hypervisor	False
+julian assange	programmer	True
+php	language	False
+combating terrorism center	institution	False
+darkmarket	forum	False
+encryption	process	False
+cfengine	system	False
+pedestal software	company	True
+gnomedex	conference	True
+osgi	organization	False
+validsoft	company	True
+cryptomathic	company	True
+back orifice	program	False
+credant technologies	company	False
+openvpn	application	True
+hardware virtualization	virtualization	False
+oracle vm server for sparc	virtualization	False
+microsoft app-v	virtualization	False
+icore virtual accounts	virtualization	False
+zerovm	virtualization	False
+climatic research unit	component	False
+sendio	beach	True
+steganography	practice	False
+alan khazei	entrepreneur	False
+biometric passport	paper	False
+filezilla	software	False
+opendns	company	True
+file transfer protocol	protocol	False
+tencent	investment	False
+netbackup	backup	False
+collaboratory	center	False
+oftp	protocol	False
+rajeev madhavan	entrepreneur	False
+apparmor	module	True
+nuclear bunker buster	equivalent	False
+minitel	service	False
+hushmail	offering	True
+beyondtrust	company	True
+wavemaker	software	False
+railo	software	False
+windows firewall	component	True
+international electrotechnical commission	organization	False
+mozy	service	False
+palamida	company	False
+captcha	test	False
+gnome	environment	False
+Truecrypt	utility	True
+warrior pride	gchq	False
+sql injection	technique	False
+registered user	user	False
+brandjacking	activity	False
+dollarrevenue	program	False
+darrell issa	representative	False
+spambot	program	True
+project shad	part	False
+laim working group	nsf	True
+twingo systems	company	True
+google analytics	service	False
+easynews	provider	False
+networx	set	False
+sysinternals	part	False
+comsec consulting	firm	True
+heroku	service	False
+eram	system	False
+peerguardian	program	False
+deepnet explorer	browser	False
+outlook express	email	False
+g.hn	specification	False
+wassenaar arrangement	regime	True
+novell vibe	platform	False
+rubicon project	firm	False
+ed bott	journalist	False
+cdnetworks	network	False
+gizmo5	voice	False
+richard rosenblatt	entrepreneur	False
+igor panarin	professor	False
+adobe livecycle	product	False
+macsweeper	application	False
+ovguide	aggregator	False
+keith winstein	scientist	False
+shareware	software	False
+kimbo slice	boxer	False
+hifn	manufacturer	False
+typosquatting	form	False
+warez p2p	service	False
+libtiff	library	False
+unisphere networks	manufacturer	False
+mojopac	product	False
+cnet	website	False
+skygrabber	software	True
+xs4all	provider	False
+trusted platform module	standard	False
+bittorrent	protocol	False
+nebuad	company	False
+blackboard learn	environment	False
+luther stickell	character	False
+advanced systems format	microsoft	False
+microsoft digital crimes unit	microsoft	True
+metasploit project	project	True
+online banking epayments	network	False
+rubee	way	False
+firmex	provider	False
+raffi krikorian	engineer	False
+workstation	computer	False
+anomaly detection	identification	False
+pretty good privacy	encryption	False
+enigmail	encryption	True
+television encryption	encryption	False
+email encryption	encryption	False
+rainbow technologies	encryption	False
+attribute-based encryption	encryption	False
+virtru	encryption	True
+phorm	company	False
+rainstor	company	False
+william f. friedman	cryptographer	True
+niels ferguson	cryptographer	True
+robert morris (cryptographer)	cryptographer	True
+eli biham	cryptographer	True
+vincent rijmen	cryptographer	True
+horst feistel	cryptographer	True
+don coppersmith	cryptographer	True
+joan daemen	cryptographer	True
+scott vanstone	cryptographer	True
+mitsuru matsui	cryptographer	True
+paul kocher	cryptographer	True
+ian goldberg	cryptographer	True
+nicolas courtois	cryptographer	True
+hans dobbertin	cryptographer	True
+jean-jacques quisquater	cryptographer	True
+john kelsey (cryptanalyst)	cryptographer	True
+jennifer seberry	cryptographer	True
+gustavus simmons	cryptographer	True
+mihir bellare	cryptographer	True
+jacques stern	cryptographer	True
+lawrie brown	cryptographer	True
+alex biryukov	cryptographer	True
+carlisle adams	cryptographer	True
+sean murphy (cryptographer)	cryptographer	True
+nikita borisov	cryptographer	True
+kaisa nyberg	cryptographer	True
+david naccache	cryptographer	True
+paul van oorschot	cryptographer	True
+tom berson	cryptographer	True
+xuejia lai	cryptographer	True
+adam back	cryptographer	True
+oliver strachey	cryptographer	True
+daniel bleichenbacher	cryptographer	True
+arthur levenson	cryptographer	True
+moti yung	cryptographer	True
+michael wood (cryptographer)	cryptographer	True
+matthew k. franklin	cryptographer	True
+matthew d. green	cryptographer	True
+peter landrock	cryptographer	True
+iptables	program	False
+bbspot	satire	False
+milter	extension	True
+ivan krstić	expert	True
+nuance communications	corporation	False
+openstack	platform	False
+pbxnsip	implementation	False
+drivesentry	program	True
+entity framework	framework	False
+codeigniter	framework	False
+full disclosure (computer security)	vulnerabilities	False
+inter-protocol exploitation	vulnerabilities	False
+nobus	vulnerabilities	True
+sharepoint	platform	False
+zeropc	webtop	False
+ipsec	suite	False
+halsey minor	entrepreneur	False
+informationweek	magazine	False
+swen	worm	True
+xmpp	protocol	False
+active directory	service	False
+eurofighter typhoon	wing	False
+adva optical networking	vendor	False
+hijackthis	tool	True
+unmanned aerial vehicle	aircraft	False
+dos	acronym	False
+mark shuttleworth	entrepreneur	False
+backblaze	tool	False
+limewire	file	False
+xiao qiang	founder	False
+plausible deniability	ability	False
+intel vpro	term	False
+findability	term	False
+sharyl attkisson	author	False
+whois	query	False
+gary mckinnon	administrator	True
+maurizio seracini	diagnostician	False
+interac	network	False
+wikia	wiki	False
+phishing	attempt	False
+mimecast	company	False
+bomgar	solution	True
+shoutcast	software	False
+federal bureau of investigation	intelligence	False
+government communications headquarters	intelligence	False
+shodan	intelligence	True
+artificial general intelligence	intelligence	False
+technical intelligence	intelligence	False
+angel f	intelligence	False
+freenet	platform	False
+4chan	website	False
+bennett haselton	founder	False
+wireless usb	protocol	False
+webroot internet security essentials	antivirus	True
+howard rheingold	critic	False
+nslu2	device	False
+mongodb	database	False
+firmware	software	False
+kernel patch protection	feature	True
+storage@home	infrastructure	False
+airborne networking	infrastructure	False
+apache hive	infrastructure	False
+google compute engine	infrastructure	False
+spam cube	company	True
+simple mail transfer protocol	internet	False
+web hosting service	internet	False
+file hosting service	internet	False
+dedicated hosting service	internet	False
+email hosting service	internet	False
+remote audio output protocol	internet	False
+shoppybag	internet	True
+freeware	software	False
+filippo menczer	american	True
+usenet	worldwide	False
+radia perlman	designer	True
+apache tomcat	server	False
+caller id spoofing	practice	False
+ibm zenterprise system	line	False
+honeyd	program	True
+etisalat	uae	False
+ibm press	ibm	False
+gamification	application	False
+beep	framework	False
+virgil griffith	writer	True
+robert hanssen	bureau	False
+apache http server	world	False
+stonesoft corporation	company	True
+safedisc	program	True
+vint cerf	pioneer	False
+fasttrack	protocol	False
+apptix	company	False
+duckduckgo	engine	False
+rsa securid	mechanism	True
+apress	publisher	False
+nmap	scanner	False
+rdesktop	implementation	False
+keystroke logging	action	False
+infoblox	company	True
+ingate systems	company	True
+jim allchin	singer	False
+marratech	company	False
+avant browser	browser	False
+syn flood	form	False
+personality disorder	disorders	False
+loretta sanchez	representative	False
+bothunter	utility	True
+hid global	manufacturer	True
+omniture	marketing	False
+annualcreditreport.com	website	False
+kidzui	browser	False
+digg	aggregator	False
+xmlhttprequest	api	False
+messaging architects	company	False
+healthcare.gov	website	False
+cyberstalking	use	False
+multicast	communication	False
+genieo	company	False
+hannah arendt	theorist	False
+livejournal	service	False
+zabbix	source	False
+mobile device	device	False
+soluto	service	True
+opportunism	policy	False
+triple des	name	False
+radius	protocol	False
+abby sciuto	character	False
+spysubtract	application	True
+bitlocker	feature	False
+sandvine	company	True
+netlink	interface	False
+phonefactor	system	False
+xi jinping	secretary	False
+european stability mechanism	organization	False
+tinkode	nickname	True
+nokia e6	smartphone	False
+synthetic biology	branch	False
+whatsapp	client	False
+alexandre desplat	composer	False
+garrett gruener	founder	False
+unconventional warfare	opposite	False
+wimedia alliance	group	False
+croc	integrator	True
+peerio	suite	True
+fraud	deception	False
+rc4	cipher	True
+operation gladio	codename	False
+john mozeliak	president	False
+xbox live	gaming	False
+digimarc	provider	False
+konrad osterwalder	mathematician	False
+micropatent	subsidiary	False
+password manager	application	False
+mediawiki	application	False
+caller id	service	False
+festi	rootkit	False
+betsy markey	representative	False
+holography	science	False
+wireshark	free	True
+surveillance	monitoring	False
+cwshredder	program	True
+voynich manuscript	codex	False
+jim halpert	character	False
+ma huateng	entrepreneur	False
+title	prefix	False
+rtts	organization	False
+carly fiorina	executive	False
+adam botbyl	hacker	True
+docs.com	site	False
+lightweight extensible authentication protocol	method	False
+stansfield turner	united	False
+array networks	company	True
+surfnet	organisation	False
+zscaler	company	True
+gadgettrak	company	False
+finjan	cisco	False
+sophos	endpoint	False
+milstar	force	False
+jasig	jeffrey	False
+waledac botnet	spam	False
+milter	filter	False
+weev	computer	False
+battlespace	power	False
+enigmail	mozilla	False
+digimarc	digimarc	False
+egress filtering	practice	False
+human trafficking	slavery	False
+registered user	register	False
+postini	spam	False
+zabbix	frontend	False
+cloud computing	cpu	False
+artificial general intelligence	task	False
+phorm	stake	False
+riptech	network	False
+telecommuting	telecommuting	False
+g.hn	wire	False
+typosquatting	browser	False
+ninite	magazine	False
+cyberstalking	organization	False
+fraud	purpose	False
+boxbe	bulk	False
+surveillance	managing	False
+libtiff	silicon	False
+television encryption	satellite	False
+splunk	software	False
+skype	console	False
+holography	practice	False
+fasthosts	england	False
+surveillance	traffic	False
+personality disorder	cognition	False
+bluesnarfing	connection	False
+informatics	study	False
+phorm	software	False
+educause	association	False
+vupen	annapolis	False
+shareware	user	False
+hacktivismo	cow	False
+gawker	york	False
+protectionism	government	False
+holography	density	False
+telecommuting	tablet	False
+etisalat	institute	False
+techfest	outreach	False
+docs.com	part	False
+hifn	asia	False
+inter-protocol exploitation	internet	False
+honeytoken	tampering	False
+biometric passport	biometric	False
+googlization	access	False
+cryptome	intelligence	False
+authentication	person	False
+w00w00	computer	False
+skype	skype	False
+cybercrime	sextortion	False
+ghostery	browser	False
+darknet	road	False
+firefox	macos	False
+typhoid adware	security	False
+cryptography	secure	False
+radware	group	False
+wireshark	project	False
+cyberoam	visibility	False
+g.hn	fiber	False
+google	product	False
+workstation	pc	False
+immunix	operating	False
+cyberoam	malware	False
+yottaa	performance	False
+cyn.in	dhiraj	False
+asprox botnet	access	False
+computer	factory	False
+telecommuting	computer	False
+holography	light	False
+nuclear bunker buster	burst	False
+apptix	healthcare	False
+deterministic encryption	padding	False
+cryptography	study	False
+clickjacking	control	False
+findability	term	False
+greynet	awareness	False
+hushmail	cleartext	False
+egress filtering	egress	False
+telecommuting	poll	False
+wikia	hosting	False
+raytheon	producer	False
+bluesnarfing	text	False
+bomgar	bomgar	False
+cloud computing	deployment	False
+sandvine	congestion	False
+cryptome	expression	False
+wiring closet	wiring	False
+yamanner	user	False
+gumblar	security	False
+virut	cybercrime	False
+unisys	pennsylvania	False
+ransomware	ransom	False
+easynews	web	False
+wireshark	protocol	False
+freemium	freemium	False
+cryptography	greek	False
+tencent	venture	False
+gnomedex	owner	False
+cohen's cryptosystem	bram	False
+wikia	editorial	False
+synthetic biology	biology	False
+telefónica	company	False
+apptix	asp	False
+scareware	threat	False
+findability	google	False
+neusoft	equipment	False
+telecommuting	laptop	False
+surveillance	gathering	False
+netlink	ipc	False
+phorm	attempt	False
+virut	naukowa	False
+mobile device	bluetooth	False
+kelihos botnet	hlux	False
+okena	okena	False
+cryptography	graphein	False
+illumio	security	False
+google	search	False
+infoblox	host	False
+computer	design	False
+synchronization	synchrony	False
+holography	interference	False
+battlespace	information	False
+brandjacking	brandjacking	False
+honeytoken	computer	False
+telecommuting	telecommute	False
+phreaking	culture	False
+amdocs	company	False
+axigen	antivirus	False
+synchronization	conductor	False
+nuclear bunker buster	warhead	False
+wikia	project	False
+stateful firewall	operating	False
+hacktivism	hacktivism	False
+artificial general intelligence	ai	False
+marratech	web	False
+usenet	truscott	False
+brandjacking	zeno	False
+shareware	freeware	False
+ultrabook	name	False
+insteon	technology	False
+sendmail	internet	False
+festi	display	False
+gamification	usefulness	False
+deterministic encryption	block	False
+immunet	software	False
+honeytoken	value	False
+virut	i	False
+phreaking	word	False
+kryptos	intelligence	False
+encryption	access	False
+docs.com	share	False
+netlink	family	False
+avira	computer	False
+synthetic biology	success	False
+avira	security	False
+peerio	layer	False
+milter	milter	False
+cyberoam	smb	False
+zabbix	c	False
+cyn.in	programming	False
+convergent encryption	store	False
+biometric passport	level	False
+koobface	worm	False
+battlespace	force	False
+deterministic encryption	ciphertext	False
+usenet	copy	False
+cryptography	ancient	False
+fraud	license	False
+tufin	security	False
+globalstar	iridium	False
+etisalat	telecommunication	False
+welchia	vulnerability	False
+holography	subject	False
+egress filtering	flow	False
+bugtraq	enterprise	False
+personality disorder	experience	False
+file hosting service	authentication	False
+twofish	twofish	False
+stegomalware	video	False
+seculert	malware	False
+reconfigurable computing	hardware	False
+artificial intelligence	contrast	False
+raytheon	june	False
+actiance	city	False
+cryptek	virginia	False
+wikia	ceo	False
+bugtraq	security	False
+inter-protocol exploitation	example	False
+child pornography	film	False
+telecommuting	workplace	False
+identity theft	disadvantage	False
+milter	service	False
+inter-protocol exploitation	attack	False
+sysinternals	citation	False
+cyberoam	protection	False
+cyberstalking	information	False
+wikia	wikipedia	False
+scareware	order	False
+libtiff	image	False
+mocana	apps	False
+clickjacking	redress	False
+nmap	lyon	False
+bomgar	joel	False
+child pornography	stimulation	False
+mocana	mocana	False
+internet	computer	False
+veracode	software	False
+virut	botnet	False
+workstation	hardware	False
+microsoft	line	False
+immunet	sourcefire	False
+weev	pseudonym	False
+instant messaging	im	False
+bugtraq	computer	False
+linux kernel	form	False
+ultrabook	subnotebook	False
+bugtraq	vehicle	False
+coreflood	threat	False
+inter-protocol exploitation	context	False
+fortiva	method	False
+hacktivism	information	False
+freenet	publishing	False
+wiring closet	distance	False
+human trafficking	movement	False
+ghostery	gmbh	False
+sandvine	equipment	False
+artificial intelligence	chance	False
+tencent	capital	False
+multicast	layer	False
+illumio	company	False
+zfone	voip	False
+dedicated hosting service	operating	False
+file sharing	transmission	False
+bugtraq	base	False
+illumio	center	False
+reconfigurable computing	flow	False
+cryptome	security	False
+mimecast	company	False
+spyware	person	False
+twofish	blowfish	False
+parasoft	monrovia	False
+wiring closet	user	False
+wuala	caleido	False
+infoblox	leader	False
+encryption	interference	False
+gamification	exercise	False
+personal firewall	security	False
+brightmail	bloc	False
+eurojust	agency	False
+computer	microwave	False
+typosquatting	address	False
+informatics	computer	False
+surveillance	distance	False
+tufin	network	False
+file sharing	practice	False
+easynews	access	False
+shadowserver	law	False
+omniture	orem	False
+freeware	publisher	False
+quantum cryptography	distribution	False
+identity theft	birth	False
+firmware	environment	False
+mimail	dozen	False
+bitdefender	security	False
+ghostery	evidon	False
+workstation	hp	False
+reconfigurable computing	hand	False
+fraud	deception	False
+cyn.in	gupta	False
+rdesktop	client	False
+cyberstalking	cyberstalking	False
+invincea	sale	False
+xen	computer	False
+wikia	fandom	False
+pseudonymity	pseudonymity	False
+splinternet	nationalism	False
+laptop	lap	False
+botnet	software	False
+vupen	security	False
+milw0rm	mumbai	False
+biometric passport	contain	False
+vupen	intelligence	False
+seculert	company	False
+infoblox	automation	False
+registered user	sort	False
+findability	information	False
+sendio	venture	False
+amdocs	israel	False
+battle.net	gaming	False
+nuclear bunker buster	bunker	False
+file hosting service	image	False
+plausible deniability	plausible	False
+encryption	recipient	False
+hushmail	hush	False
+asprox botnet	playstation	False
+dasient	california	False
+cigital	security	False
+password manager	service	False
+smart grid	grid	False
+firefox	foundation	False
+phreaking	phreaker	False
+systems integrator	management	False
+grum botnet	july	False
+firesheep	tool	False
+grum botnet	tedroo	False
+lethic botnet	botnet	False
+interac	debit	False
+sysinternals	password	False
+hifn	security	False
+shareware	type	False
+zfone	software	False
+genieo	modifying	False
+pseudonymity	state	False
+microsoft	software	False
+apptix	service	False
+mimecast	mimecast	False
+freeware	set	False
+spyware	software	False
+neusoft	company	False
+splunk	corporation	False
+debian	version	False
+laptop	difference	False
+human trafficking	removal	False
+mocana	platform	False
+shadowserver	computer	False
+europol	eu	False
+zscaler	control	False
+mozy	mozy	False
+anonymizer	rest	False
+invincea	detection	False
+huawei	market	False
+yottaa	globe	False
+enigmail	mac	False
+pseudonymity	information	False
+libtiff	library	False
+hifn	carlsbad	False
+digg	facebook	False
+file sharing	video	False
+skype	telecommunications	False
+egress filtering	monitoring	False
+gumblar	software	False
+microsoft	fortune	False
+authentication	artifact	False
+linux kernel	android	False
+darknet	place	False
+fortiva	result	False
+kraken botnet	world	False
+actiance	ibm	False
+consumer watchdog	consumer	False
+keystroke logging	software	False
+asprox botnet	mcafee	False
+spambot	spambot	False
+ultrabook	disc	False
+scareware	circulation	False
+fraud	document	False
+gamification	voter	False
+cybercrime	person	False
+battle.net	release	False
+supercomputer	taiwan	False
+maxthon	maxthon	False
+pbxnsip	pstn	False
+debian	basis	False
+cohen's cryptosystem	cryptosystem	False
+technical intelligence	term	False
+television encryption	access	False
+unmanned aerial vehicle	flight	False
+spambot	web	False
+pseudonymity	name	False
+debian	edition	False
+convergent encryption	encryption	False
+seculert	research	False
+cloudlet	term	False
+darknet	securedrop	False
+cryptography	communication	False
+freemium	game	False
+bomgar	access	False
+registered user	identity	False
+googlization	neologism	False
+ransomware	cryptovirology	False
+janrain	provider	False
+tufin	policy	False
+findability	user	False
+zscaler	vulnerability	False
+inter-protocol exploitation	protocol	False
+infoblox	share	False
+cryptome	privacy	False
+battle.net	online	False
+interac	network	False
+human trafficking	violation	False
+stegomalware	traffic	False
+dedicated hosting service	investment	False
+mocana	implementation	False
+cloud computing	cloud	False
+blackdog	scotland	False
+docs.com	website	False
+reconfigurable computing	speed	False
+illumio	business	False
+cryptome	cryptome	False
+identity theft	name	False
+phishing	communication	False
+television encryption	encryption	False
+bomgar	website	False
+w00w00	tank	False
+cryptography	intersection	False
+debian	distribution	False
+veracode	platform	False
+egress filtering	internet	False
+mocana	internet	False
+infoblox	system	False
+twofish	encryption	False
+wikia	advertising	False
+hushmail	recipient	False
+firmware	consumer	False
+festi	time	False
+zfone	voice	False
+coreflood	state	False
+surveillance	behavior	False
+artificial general intelligence	machine	False
+anycast	path	False
+neusoft	provider	False
+gawker	month	False
+cryptanalysis	order	False
+neusoft	product	False
+finjan	property	False
+psiphon	internet	False
+docs.com	page	False
+zscaler	management	False
+g.hn	operation	False
+personality disorder	culture	False
+cybercrime	internet	False
+bugtraq	software	False
+botnet	number	False
+asprox botnet	avast	False
+telecommuting	citation	False
+enigmail	suite	False
+enigmail	extension	False
+milw0rm	logo	False
+ksplice	kernel	False
+networx	government	False
+finjan	micro	False
+axigen	server	False
+freeware	example	False
+dedicated hosting service	s	False
+unmanned aerial vehicle	type	False
+dedicated hosting service	system	False
+firmex	service	False
+freeware	code	False
+cyn.in	top	False
+crimeware	malware	False
+encryption	cryptography	False
+ksplice	software	False
+botnet	connection	False
+twofish	contest	False
+netfilter	port	False
+freenet	protection	False
+nuclear bunker buster	buster	False
+scareware	engineering	False
+actiance	messaging	False
+sandvine	california	False
+milstar	milstar	False
+festi botnet	botnet	False
+linux kernel	fta	False
+marratech	marratech	False
+etisalat	group	False
+authentication	user	False
+cryptographic protocol	concrete	False
+conficker	downup	False
+gnomedex	pirillo	False
+zfone	top	False
+palamida	analysis	False
+encryption	principle	False
+quantum cryptography	fact	False
+axigen	webmail	False
+cyberterrorism	use	False
+phreaking	telecommunication	False
+cyberoam	network	False
+ultrabook	citation	False
+cigital	cigital	False
+jasig	dodds	False
+password manager	password	False
+splinternet	commerce	False
+zabbix	ibm	False
+plesk	plesk	False
+chromebook	variety	False
+yottaa	massachusetts	False
+microsoft	flagship	False
+identity theft	credit	False
+authentication	process	False
+internet	sharing	False
+telecommuting	asia	False
+inter-protocol exploitation	hypertext	False
+dedicated hosting service	colocation	False
+milw0rm	agenda	False
+sandvine	policy	False
+mozy	division	False
+metadirectory	authentication	False
+fasthosts	gloucester	False
+ninite	package	False
+zotob	press	False
+dentrix	management	False
+freenet	communication	False
+maxthon	trident	False
+computer forensics	science	False
+freeware	engineering	False
+festi	implementation	False
+invincea	malware	False
+railo	cfml	False
+iptables	firewall	False
+zotob	zotob	False
+conficker	business	False
+surveillance	television	False
+cryptographic protocol	point	False
+asprox botnet	programming	False
+apress	division	False
+cryptography	science	False
+brandjacking	week	False
+finjan	symantec	False
+human trafficking	extraction	False
+shareware	software	False
+phorm	kingdom	False
+internet	government	False
+nortel	quebec	False
+carna botnet	botnet	False
+metadirectory	management	False
+digg	july	False
+zscaler	computing	False
+wireshark	packet	False
+techfest	variety	False
+file hosting service	cyberlocker	False
+brightmail	center	False
+child pornography	animation	False
+telecommuting	building	False
+amdocs	amdocs	False
+dentrix	practice	False
+laptop	person	False
+brandjacking	brand	False
+insteon	rf	False
+brandjacking	brandjack	False
+shareware	cost	False
+milter	mta	False
+nitol botnet	malware	False
+wuala	switzerland	False
+zabbix	xml	False
+yottaa	product	False
+foundstone	security	False
+tencent	web	False
+etisalat	name	False
+cyberterrorism	loss	False
+synthetic biology	growing	False
+wiring closet	building	False
+w00w00	group	False
+cyberoam	control	False
+phorm	brazil	False
+egress filtering	information	False
+anycast	basis	False
+coreflood	horse	False
+yottaa	web	False
+dedicated hosting service	server	False
+encryption	process	False
+weev	variety	False
+axigen	exchange	False
+registered user	program	False
+typhoid adware	attack	False
+mandiant	firm	False
+botnet	term	False
+brandjacking	person	False
+immunet	antivirus	False
+cryptanalysis	access	False
+splinternet	splintering	False
+greynet	door	False
+personality disorder	manual	False
+sendio	president	False
+informatics	breadth	False
+surveillance	cctv	False
+yottaa	optimization	False
+conficker	conficker	False
+kryptos	kryptos	False
+technical intelligence	techint	False
+bluetooth	standard	False
+boxbe	boxbe	False
+rombertik	explorer	False
+waledac botnet	botnet	False
+greynet	grayware	False
+dentrix	office	False
+asprox botnet	installation	False
+freemium	offering	False
+systems integrator	automation	False
+kraken botnet	macintosh	False
+riptech	company	False
+cryptosystem	encryption	False
+voynich manuscript	codex	False
+zabbix	disk	False
+ninite	number	False
+firefox	quantum	False
+holography	structure	False
+unisys	corporation	False
+fraud	example	False
+opportunism	advantage	False
+googlization	expansion	False
+huawei	h3c	False
+veracode	massachusetts	False
+microsoft	edge	False
+cloudlet	box	False
+iptables	program	False
+workstation	term	False
+biometric passport	framework	False
+twofish	size	False
+infoblox	dns	False
+zotob	york	False
+asprox botnet	networking	False
+radware	delivery	False
+firesheep	sniffer	False
+authentication	act	False
+europol	police	False
+computer forensics	information	False
+cloudlet	internet	False
+infoblox	june	False
+gamification	research	False
+freemium	money	False
+multicast	transmission	False
+greynet	use	False
+fraud	mortgage	False
+dedicated hosting service	deployment	False
+huawei	enterprise	False
+gnomedex	event	False
+genieo	application	False
+personal firewall	computer	False
+stuxnet	program	False
+zabbix	configuration	False
+instant messaging	voice	False
+spyware	organization	False
+workstation	sun	False
+dedicated hosting service	contrast	False
+sophos	index	False
+vupen	branch	False
+biometric passport	combination	False
+file hosting service	storage	False
+return-oriented programming	code	False
+microsoft	multinational	False
+europol	europol	False
+parasoft	computer	False
+janrain	janrain	False
+plausible deniability	denial	False
+laptop	computer	False
+blackdog	city	False
+synchronization	time	False
+laptop	pc	False
+anycast	number	False
+milter	spam	False
+iptables	netfilter	False
+hetzner	hetzner	False
+pseudonymity	holder	False
+systems integrator	integration	False
+netcraft	bath	False
+internet	web	False
+authentication	document	False
+wuala	lacie	False
+sendio	funding	False
+libtiff	line	False
+infoblox	idc	False
+bot herder	botnet	False
+koobface	myspace	False
+palamida	company	False
+gumblar	botnet	False
+disk encryption	information	False
+freenet	information	False
+cyn.in	collaborative	False
+kraken botnet	web	False
+enigmail	decryption	False
+splinternet	internet	False
+biometric passport	trade	False
+welchia	security	False
+mozy	q3	False
+mocana	iot	False
+freemium	industry	False
+blackdog	aberdeen	False
+email hosting service	hosting	False
+battlespace	battlespace	False
+netlink	system	False
+voynich manuscript	century	False
+plesk	web	False
+lighttpd	secure	False
+debian	software	False
+intego	software	False
+axigen	integration	False
+gawker	flagship	False
+yottaa	boston	False
+marid	shaitan	False
+clearswift	company	False
+gizmo5	march	False
+bot herder	security	False
+lighttpd	jan	False
+welchia	rpc	False
+torpig	rootkit	False
+cloudlet	research	False
+raytheon	corporation	False
+ghostery	extension	False
+g.hn	specification	False
+botnet	combination	False
+yamanner	yahoo	False
+personality disorder	personality	False
+sandvine	consumer	False
+systems integrator	computer	False
+synchronization	synchronization	False
+findability	relevance	False
+zscaler	activity	False
+darknet	web	False
+firefox	mozilla	False
+hardware virtualization	hardware	False
+cryptosystem	algorithms	False
+holography	recording	False
+botnet	spam	False
+lighttpd	kneschke	False
+weev	troll	False
+jasig	group	False
+axigen	pop3	False
+mydoom	shimgapi	False
+psiphon	censorship	False
+attribute-based encryption	country	False
+typosquatting	user	False
+brightmail	filtering	False
+jasig	c	False
+firesheep	facebook	False
+return-oriented programming	computer	False
+laptop	education	False
+stateful firewall	connection	False
+soluto	management	False
+asprox botnet	security	False
+netfilter	kernel	False
+genieo	adware	False
+google	scheme	False
+protectionism	variety	False
+cyn.in	cynapse	False
+etisalat	network	False
+educause	mission	False
+wireshark	analyzer	False
+botnet	control	False
+personality disorder	official	False
+child pornography	variety	False
+mandiant	report	False
+symantec	p	False
+targeted threat	class	False
+axigen	smtp	False
+metadirectory	synchronization	False
+linux kernel	computer	False
+cryptome	john	False
+dedicated hosting service	infrastructure	False
+gnutella	network	False
+brightmail	system	False
+finjan	buzzword	False
+plaintext	cryptography	False
+railo	java	False
+findability	context	False
+clickjacking	attack	False
+rdesktop	implementation	False
+plausible deniability	responsibility	False
+europol	union	False
+instant messaging	ip	False
+gmail	july	False
+parasoft	california	False
+torpig	mebroot	False
+cybercrime	pornography	False
+easynews	network	False
+digg	science	False
+soluto	company	False
+freeware	instance	False
+email encryption	email	False
+proxy re-encryption	ciphertext	False
+nuclear bunker buster	result	False
+mydoom	record	False
+europol	enforcement	False
+stuxnet	iran	False
+gamification	crowdsourcing	False
+dedicated hosting service	storage	False
+nortel	equipment	False
+freemium	portmanteau	False
+convergent encryption	stac	False
+peerio	encryption	False
+mandiant	december	False
+quantum cryptography	exchange	False
+human trafficking	context	False
+zabbix	php	False
+gnomedex	staff	False
+anonymizer	shield	False
+yamanner	server	False
+fasthosts	registration	False
+disk encryption	volume	False
+ransomware	technique	False
+battlespace	mission	False
+brightmail	wall	False
+apress	publisher	False
+omniture	marketing	False
+riptech	july	False
+sendio	malware	False
+etisalat	company	False
+g.hn	wiring	False
+anycast	methodology	False
+linux kernel	operating	False
+g.hn	device	False
+axigen	support	False
+chromebook	tablet	False
+greynet	end	False
+carna botnet	creator	False
+encryption	message	False
+firefox	interface	False
+spyware	device	False
+mocana	company	False
+fraud	property	False
+scareware	apwg	False
+dedicated hosting service	control	False
+dasient	company	False
+phreaking	use	False
+pseudonymity	identity	False
+holography	change	False
+ultrabook	ethernet	False
+artificial intelligence	field	False
+sophos	ftse	False
+freemium	strategy	False
+postini	mail	False
+attribute-based encryption	set	False
+dedicated hosting service	solution	False
+wuala	feature	False
+keystroke dynamics	keyboard	False
+google	content	False
+outsourcery	june	False
+koobface	facebook	False
+cyberterrorism	computer	False
+europol	holland	False
+gmail	april	False
+welchia	procedure	False
+finjan	troll	False
+multicast	data	False
+cohen's cryptosystem	cohen	False
+cloudlet	latency	False
+torpig	bank	False
+quantum cryptography	cryptography	False
+laptop	form	False
+fortiva	site	False
+brandjacking	phrase	False
+password manager	database	False
+darknet	trading	False
+jasig	programming	False
+milstar	body	False
+darknet	illicit	False
+bomgar	patrick	False
+dentrix	gibson	False
+ksplice	need	False
+web hosting service	space	False
+gizmo5	ip	False
+authentication	computer	False
+hacktivismo	information	False
+instant messaging	messenger	False
+typosquatting	form	False
+digimarc	bancorp	False
+riptech	security	False
+battle.net	networking	False
+digimarc	citizenship	False
+darknet	communication	False
+marratech	company	False
+pbxnsip	name	False
+return-oriented programming	programming	False
+bitdefender	cybersecurity	False
+darknet	architecture	False
+okena	company	False
+anycast	anycast	False
+phishing	messaging	False
+shadowserver	end	False
+alureon	tdss	False
+encryption	algorithm	False
+firmex	toronto	False
+gifar	user	False
+jasig	delaware	False
+anycast	user	False
+human trafficking	trafficker	False
+supercomputer	second	False
+europol	hague	False
+smart grid	energy	False
+chromebook	cloud	False
+immunix	apparmor	False
+chromebook	os	False
+spyware	consent	False
+foundstone	computer	False
+networx	office	False
+dedicated hosting service	administration	False
+firesheep	identity	False
+rombertik	running	False
+peerio	support	False
+phorm	oi	False
+hifn	gatos	False
+veracode	company	False
+google	security	False
+biometric passport	imaging	False
+typhoid adware	network	False
+digimarc	report	False
+railo	programming	False
+milw0rm	peace	False
+genieo	party	False
+hardware virtualization	program	False
+file hosting service	provider	False
+identity theft	information	False
+federated identity	technology	False
+sophos	hardware	False
+usenet	worldwide	False
+mobile device	lcd	False
+omniture	name	False
+metadirectory	metadirectory	False
+google	rate	False
+battlespace	sea	False
+jasig	jacobson	False
+antivirus software	computer	False
+microsoft	video	False
+ultrabook	ultrabook	False
+gawker	io9	False
+janrain	software	False
+sendio	security	False
+sophos	constituent	False
+coreflood	botnet	False
+plesk	panel	False
+libtiff	format	False
+brightmail	probe	False
+findability	online	False
+metulji botnet	bot	False
+wiring closet	networking	False
+enigmail	outlook	False
+darknet	tor	False
+sophos	network	False
+findability	internet	False
+battle.net	diablo	False
+w00w00	messaging	False
+transnational crime	crime	False
+convergent encryption	computing	False
+stegomalware	detection	False
+neusoft	technology	False
+metadirectory	part	False
+mozy	dell	False
+cyberstalking	individual	False
+railo	language	False
+cigital	architecture	False
+freenet	freenet	False
+g.hn	home	False
+bugtraq	fashion	False
+cryptosystem	cryptography	False
+hushmail	vanity	False
+iptables	system	False
+linux kernel	system	False
+lethic botnet	spam	False
+internet	world	False
+personality disorder	class	False
+dedicated hosting service	power	False
+tencent	online	False
+spyware	spyware	False
+voynich manuscript	manuscript	False
+genieo	genieo	False
+file sharing	networking	False
+rdesktop	protocol	False
+technical intelligence	technology	False
+splinternet	technology	False
+biometric passport	fingerprint	False
+microsoft	revenue	False
+sendio	technology	False
+gnome	literature	False
+identity theft	loss	False
+fortiva	company	False
+gizmo5	gizmo5	False
+marid	marid	False
+infoblox	management	False
+wireshark	analysis	False
+typhoid adware	advertising	False
+computer forensics	preserving	False
+typosquatting	cybersquatting	False
+collaboratory	instrumentation	False
+greynet	cognition	False
+cigital	analysis	False
+foundstone	foundstone	False
+digg	aggregator	False
+easynews	interface	False
+cigital	application	False
+pbxnsip	company	False
+radware	nasdaq	False
+technical intelligence	range	False
+optenet	mssps	False
+hushmail	sender	False
+kelihos botnet	botnet	False
+milw0rm	june	False
+maxthon	version	False
+firmware	control	False
+registered user	system	False
+bot herder	herder	False
+metadirectory	policy	False
+sandvine	company	False
+bot herder	bot	False
+holography	parallax	False
+cloud computing	infrastructure	False
+infoblox	california	False
+usenet	bbss	False
+password manager	management	False
+cryptography	information	False
+zabbix	utilization	False
+invincea	command	False
+shadowserver	fraud	False
+cyberterrorism	disruption	False
+gnomedex	outgrowth	False
+holography	diffuse	False
+yamanner	address	False
+cyn.in	zope	False
+telecommuting	warehouse	False
+surveillance	purpose	False
+plesk	reseller	False
+veracode	burlington	False
+convergent encryption	cryptosystem	False
+findability	research	False
+koobface	support	False
+mimail	release	False
+torpig	credit	False
+cybercrime	infringement	False
+apptix	apptix	False
+holography	science	False
+firefox	unix	False
+outsourcery	network	False
+tencent	china	False
+zotob	worm	False
+zabbix	unix	False
+finjan	fnjn	False
+parasoft	cube	False
+nimda	red	False
+finjan	finjan	False
+plaintext	input	False
+mimecast	continuity	False
+nimda	file	False
+neusoft	software	False
+mimail	mydoom	False
+anomaly detection	data	False
+telefónica	europe	False
+networx	internet	False
+marratech	conferencing	False
+protectionism	export	False
+immunet	engine	False
+supercomputer	operating	False
+festi botnet	denial	False
+outsourcery	business	False
+surveillance	influencing	False
+brightmail	spam	False
+finjan	eset	False
+psiphon	codebase	False
+metadirectory	system	False
+supercomputer	union	False
+invincea	end	False
+phorm	technology	False
+soluto	protection	False
+laptop	lid	False
+freenet	anonymity	False
+cryptographic protocol	protocol	False
+donbot botnet	amount	False
+plausible deniability	involvement	False
+debian	june	False
+europol	executive	False
+firesheep	firesheep	False
+mobile device	communication	False
+jasig	language	False
+cloudlet	mellon	False
+metulji botnet	denial	False
+wuala	service	False
+welchia	blaster	False
+plesk	dns	False
+zscaler	threat	False
+return-oriented programming	security	False
+attribute-based encryption	subscription	False
+tencent	gaming	False
+shadowserver	shadowserver	False
+findability	law	False
+wikia	wiki	False
+surveillance	information	False
+okena	transaction	False
+alureon	customer	False
+unmanned aerial vehicle	vehicle	False
+nuclear bunker buster	surface	False
+sendio	beach	False
+brandjacking	pr	False
+holography	perspective	False
+authentication	age	False
+mimail	variant	False
+jasig	koehler	False
+clickjacking	something	False
+gawker	gossip	False
+convergent encryption	patent	False
+netlink	host	False
+zscaler	zscaler	False
+freeware	end	False
+conficker	worm	False
+supercomputer	computer	False
+enigmail	internet	False
+phorm	internet	False
+welchia	service	False
+shadowserver	capability	False
+authentication	assertion	False
+heuristic analysis	analysis	False
+genieo	tracking	False
+technical intelligence	science	False
+actiance	corporation	False
+synthetic biology	branch	False
+rdesktop	license	False
+infoblox	enterprise	False
+freeware	author	False
+cigital	secureassist	False
+collaboratory	wulf	False
+chromebook	google	False
+typhoid adware	mechanism	False
+biometric passport	photograph	False
+personality disorder	contexts	False
+mobile device	internet	False
+mocana	class	False
+outsourcery	plc	False
+smart grid	distribution	False
+password manager	form	False
+brandjacking	firm	False
+genieo	type	False
+waledac botnet	computer	False
+google	sitemap	False
+sysinternals	part	False
+cybercrime	security	False
+railo	scripting	False
+mobile device	place	False
+unmanned aerial vehicle	autonomy	False
+dedicated hosting service	type	False
+huawei	switch	False
+axigen	collaboration	False
+dentrix	software	False
+nortel	corporation	False
+telecommuting	desktop	False
+kelihos botnet	theft	False
+cutwail botnet	bot	False
+cryptome	foundation	False
+lighttpd	citation	False
+collaboratory	s	False
+globalstar	orbit	False
+telecommuting	latin	False
+cryptanalysis	hidden	False
+cryptosystem	security	False
+invincea	prevention	False
+coreflood	defense	False
+honeytoken	security	False
+ransomware	victim	False
+optenet	web	False
+cloud computing	example	False
+microsoft	lineup	False
+tencent	brand	False

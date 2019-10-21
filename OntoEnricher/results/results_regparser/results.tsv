@@ -1,0 +1,14 @@
+trojan	malware	True
+rootkits	malware	True
+crimeware	malware	True
+trojans	malware	True
+rootkits	spyware	False
+viruses	malware	True
+ransomware	malware	True
+adware	malware	True
+hackers	malware	False
+worm	malware	True
+spam	malware	True
+virus	malware	True
+crimeware	spyware	True
+cybercriminal	malware	False

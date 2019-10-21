@@ -1,0 +1,20 @@
+{
+  "lemma_lookup": [
+    400001,
+    300
+  ],
+  "pos_lookup": [
+    1,
+    4
+  ],
+  "dep_lookup": [
+    1,
+    5
+  ],
+  "dir_lookup": [
+    1,
+    1
+  ],
+  "num_relations": 2,
+  "use_xy_embeddings": true
+}

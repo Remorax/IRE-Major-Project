@@ -1,0 +1,24 @@
+malcode	software	True
+control	server	False
+backdoors	attackers	False
+computer	software	False
+cybercriminals	software	False
+software	backdoors	False
+viruses	malware	True
+software	malware	False
+software	ransomware	False
+control	networks	False
+implementation	privacy	False
+cybercrime	malware	False
+hackers	malware	False
+command	server	False
+malware	software	True
+software	keylogger	False
+systems	malware	False
+browser toolbar	software	False
+access	software	False
+hardware	keylogger	False
+implementation	security	False
+viruses	backdoors	False
+software	implementation	False
+detection	communication	False
