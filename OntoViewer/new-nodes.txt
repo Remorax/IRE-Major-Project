@@ -1,0 +1,3 @@
+rdflib.term.URIRef('http://www.co-ode.org/ontologies/pizza/pizza.owl#AmericanHot') rdflib.term.URIRef('http://www.w3.org/2000/01/rdf-schema#label') rdflib.term.Literal('AmericanHot', lang='en')
+
+rdflib.term.URIRef('http://www.co-ode.org/ontologies/pizza/pizza.owl#AmericanHot') rdflib.term.URIRef('http://www.w3.org/2004/02/skos/core#altLabel') rdflib.term.Literal('American Hot Pizza', lang='en')
