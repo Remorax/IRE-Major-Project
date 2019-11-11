@@ -164,6 +164,44 @@ def dbpedia_parse(termlist):
                 name = res.split('/')[-1]
                 tempList.append([name, termname, "Hyponym"])
 
+        sparql = SPARQLWrapper("http://dbpedia.org/sparql")
+        sparql.setQuery("""SELECT * WHERE {?synonyms <http://dbpedia.org/ontology/wikiPageRedirects> <http://dbpedia.org/resource/"""+ queryWord + """> .}""")
+        idx+=1
+        sparql.setReturnFormat(JSON)
+        try:
+            results = sparql.query().convert()
+        except Exception as e:
+            print (idx, queryWord)
+            print (e)
+            continue
+
+        if results["results"]["bindings"]:
+            for result in results["results"]["bindings"]:
+                res = result["synonyms"]["value"]
+                name = res.split('/')[-1]
+                tempList.append([name, termname, "Synonym"])
+        else:
+            termname2 = termname.lower()[0].upper() + termname.lower()[1:]
+            queryWord2 = "_".join(termname2.split(" "))
+            sparql = SPARQLWrapper("http://dbpedia.org/sparql")
+            sparql.setQuery("""SELECT * WHERE {?hypernyms <http://purl.org/linguistics/gold/hypernym> <http://dbpedia.org/resource/"""+queryWord2 + """> .}""")
+            sparql.setReturnFormat(JSON)
+            idx+=1
+            try:
+#                 print (queryWord2)
+                results = sparql.query().convert()
+            except Exception as e:
+                print (idx, queryWord2)
+                print (e)
+                continue
+            try:
+                for result in results["results"]["bindings"]:
+                    res = result["hypernyms"]["value"]
+                    name = res.split('/')[-1]
+                    tempList.append([name, termname, "Synonym"])
+            except:
+                continue
+
         appendingList = []
         for elem in tempList:
             if elem not in appendingList:

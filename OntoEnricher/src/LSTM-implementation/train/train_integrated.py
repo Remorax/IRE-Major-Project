@@ -14,7 +14,7 @@ from paths_lstm_classifier import PathLSTMClassifier
 from sklearn.metrics import precision_recall_fscore_support
 
 EMBEDDINGS_DIM = 300
-
+NUM_CLASSES = 4
 
 def main():
     """
@@ -30,15 +30,16 @@ def main():
     word_dropout_rate = float(sys.argv[10])
 
     np.random.seed(133)
-    relations = ['False', 'True']
+    relations = ['none', 'hypernym', 'hyponym', "synonym"]
+    mappingDict = {key: idx for (idx,key) in enumerate(relations)}
 
     # Load the datasets
     print('Loading the dataset...')
     train_set = load_dataset(dataset_prefix + 'train.tsv')
     test_set = load_dataset(dataset_prefix + 'test.tsv')
     val_set = load_dataset(dataset_prefix + 'val.tsv')
-    y_train = [1 if 'True' in train_set[key] else 0 for key in list(train_set.keys())]
-    y_test = [1 if 'True' in test_set[key] else 0 for key in list(test_set.keys())]
+    y_train = [mappingDict[train_set[key]] for key in list(train_set.keys())]
+    y_test = [mappingDict[test_set[key]] for key in list(test_set.keys())]
     # Uncomment if you'd like to load the validation set (e.g. to tune the hyper-parameters)
     # y_val = [1 if 'True' in val_set[key] else 0 for key in val_set.keys()]
     dataset_keys = list(train_set.keys()) + list(test_set.keys()) + list(val_set.keys())
@@ -72,16 +73,17 @@ def main():
     # Create the classifier
     classifier = PathLSTMClassifier(num_lemmas=len(lemma_index), num_pos=len(pos_index),
                                     num_dep=len(dep_index),num_directions=len(dir_index), n_epochs=3,
-                                    num_relations=2, lemma_embeddings=wv, dropout=word_dropout_rate, alpha=alpha,
+                                    num_relations=NUM_CLASSES, lemma_embeddings=wv, dropout=word_dropout_rate, alpha=alpha,
                                     use_xy_embeddings=True)
 
     # print 'Training with regularization = %f, learning rate = %f, dropout = %f...' % (reg, alpha, dropout)
     print('Training with learning rate = %f, dropout = %f...' % (alpha, word_dropout_rate))
     classifier.fit(X_train, y_train, x_y_vectors=x_y_vectors_train)
+    print (X_train[:10])
 
     print('Evaluation:')
     pred = classifier.predict(X_test, x_y_vectors=x_y_vectors_test)
-    p, r, f1, support = precision_recall_fscore_support(y_test, pred, average='binary')
+    p, r, f1, support = precision_recall_fscore_support(y_test, pred, average='micro')
     print('Precision: %.3f, Recall: %.3f, F1: %.3f' % (p, r, f1))
 
     # Save the best model to a file

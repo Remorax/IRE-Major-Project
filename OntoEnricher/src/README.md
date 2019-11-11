@@ -26,7 +26,7 @@ where:
 	- `resource_prefix` is the file path and prefix of the corpus files, e.g. corpus/security, such that the directory corpus contains the security_*.db files created by create_resource_from_corpus.sh.
 	- `dataset_prefix` is the file path of the dataset files, e.g. dataset/regparser, such that this directory contains 3 files: train.tsv, test.tsv and val.tsv.
 	- `model_prefix_file` is the output directory and prefix for the model files. The model is saved in 3 files: .model, .params and .dict. In addition, the test set predictions are saved in .predictions, and the prominent paths are saved to .paths.
-	- `embeddings_file` is the pre-trained word embeddings file, in txt format (i.e., every line consists of the word, followed by a space, and its vector. We use [GloVe](http://nlp.stanford.edu/data/glove.6B.zip) to train our models.)
+	- `embeddings_file` is the pre-trained word embeddings file, in txt format (i.e., every line consists of the word, followed by a space, and its vector. We use [word2vec model trained on Information Security corpus](https://drive.google.com/file/d/1fpN0ROwxMVHbd6URiWqdoAHAcLDS-ln8/view?usp=sharing) to train our models.)
 	- `alpha` is the learning rate (eg. 0.001).
 	- `word_dropout_rate` is the word dropout rate. (eg. 0.3)
 
