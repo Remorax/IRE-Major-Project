@@ -24,7 +24,17 @@
       "contributor" : [ {
         "identifier" : "contributor",
         "language" : "undefined",
+        "value" : "Alan Rector",
+        "type" : "label"
+      }, {
+        "identifier" : "contributor",
+        "language" : "undefined",
         "value" : "Chris Wroe",
+        "type" : "label"
+      }, {
+        "identifier" : "contributor",
+        "language" : "undefined",
+        "value" : "Matthew Horridge",
         "type" : "label"
       }, {
         "identifier" : "contributor",
@@ -35,16 +45,6 @@
         "identifier" : "contributor",
         "language" : "undefined",
         "value" : "Robert Stevens",
-        "type" : "label"
-      }, {
-        "identifier" : "contributor",
-        "language" : "undefined",
-        "value" : "Matthew Horridge",
-        "type" : "label"
-      }, {
-        "identifier" : "contributor",
-        "language" : "undefined",
-        "value" : "Alan Rector",
         "type" : "label"
       } ],
       "provenance" : [ {
@@ -439,7 +439,7 @@
     "comment" : {
       "en" : "A class that is equivalent to the set of individuals that are described in the enumeration - ie Countries can only be either America, England, France, Germany or Italy and nothing else. Note that these individuals have been asserted to be allDifferent from each other."
     },
-    "attributes" : [ "intersection", "external" ],
+    "attributes" : [ "external", "intersection" ],
     "id" : "98"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#Siciliana",
@@ -455,12 +455,12 @@
       "altLabel" : [ {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Siciliana Pizza",
+        "value" : "Siciliana",
         "type" : "label"
       }, {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Siciliana",
+        "value" : "Siciliana Pizza",
         "type" : "label"
       } ]
     },
@@ -527,12 +527,12 @@
       "altLabel" : [ {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Napoletana Pizza",
+        "value" : "Napoletana",
         "type" : "label"
       }, {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Napoletana",
+        "value" : "Napoletana Pizza",
         "type" : "label"
       } ]
     },
@@ -565,7 +565,7 @@
     "comment" : {
       "en" : "An example of a covering axiom. VegetarianTopping is equivalent to the union of all toppings in the given axiom. VegetarianToppings can only be Cheese or Vegetable or....etc."
     },
-    "attributes" : [ "intersection", "external" ],
+    "attributes" : [ "external", "intersection" ],
     "id" : "191"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#HotGreenPepperTopping",
@@ -601,12 +601,12 @@
       "altLabel" : [ {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Mushroom Pizza",
+        "value" : "Mushroom",
         "type" : "label"
       }, {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Mushroom",
+        "value" : "Mushroom Pizza",
         "type" : "label"
       } ]
     },
@@ -798,12 +798,12 @@
       "altLabel" : [ {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Parmese",
+        "value" : "Parmese Pizza",
         "type" : "label"
       }, {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Parmese Pizza",
+        "value" : "Parmese",
         "type" : "label"
       } ]
     },
@@ -895,12 +895,12 @@
       "altLabel" : [ {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Caprina Pizza",
+        "value" : "Caprina",
         "type" : "label"
       }, {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Caprina",
+        "value" : "Caprina Pizza",
         "type" : "label"
       } ]
     },
@@ -999,7 +999,7 @@
       "en" : "NonVegetarianPizza"
     },
     "intersection" : [ "48" ],
-    "attributes" : [ "intersection", "external" ],
+    "attributes" : [ "external", "intersection" ],
     "id" : "443"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#VegetableTopping",
@@ -1039,7 +1039,7 @@
       "en" : "ThinAndCrispyPizza"
     },
     "intersection" : [ "48" ],
-    "attributes" : [ "intersection", "external" ],
+    "attributes" : [ "external", "intersection" ],
     "id" : "517"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#PolloAdAstra",
@@ -1177,7 +1177,7 @@
       "en" : "SpicyPizza"
     },
     "intersection" : [ "48" ],
-    "attributes" : [ "intersection", "external" ],
+    "attributes" : [ "external", "intersection" ],
     "id" : "521"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#FourCheesesTopping",
@@ -1360,12 +1360,12 @@
       "altLabel" : [ {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Veneziana",
+        "value" : "Veneziana Pizza",
         "type" : "label"
       }, {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Veneziana Pizza",
+        "value" : "Veneziana",
         "type" : "label"
       } ]
     },
@@ -1561,7 +1561,7 @@
       "en" : "MeatyPizza"
     },
     "intersection" : [ "48" ],
-    "attributes" : [ "intersection", "external" ],
+    "attributes" : [ "external", "intersection" ],
     "id" : "553"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#IndianPizza",
@@ -1670,12 +1670,12 @@
       "altLabel" : [ {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "American",
+        "value" : "American Pizza",
         "type" : "label"
       }, {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "American Pizza",
+        "value" : "American",
         "type" : "label"
       } ]
     },
@@ -1721,12 +1721,12 @@
       "altLabel" : [ {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Giardiniera Pizza",
+        "value" : "Giardiniera",
         "type" : "label"
       }, {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Giardiniera",
+        "value" : "Giardiniera Pizza",
         "type" : "label"
       } ]
     },
@@ -1864,7 +1864,7 @@
       "en" : "SpicyTopping"
     },
     "intersection" : [ "192" ],
-    "attributes" : [ "intersection", "external" ],
+    "attributes" : [ "external", "intersection" ],
     "id" : "633"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#NamedPizza",
@@ -1925,7 +1925,7 @@
       "en" : "RealItalianPizza"
     },
     "intersection" : [ "48" ],
-    "attributes" : [ "intersection", "external" ],
+    "attributes" : [ "external", "intersection" ],
     "id" : "687"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#OnionTopping",
@@ -2107,7 +2107,7 @@
       "en" : "InterestingPizza"
     },
     "intersection" : [ "48" ],
-    "attributes" : [ "intersection", "external" ],
+    "attributes" : [ "external", "intersection" ],
     "id" : "765"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#Pizza",
@@ -2159,7 +2159,7 @@
       "en" : "VegetarianPizza"
     },
     "intersection" : [ "48" ],
-    "attributes" : [ "intersection", "external" ],
+    "attributes" : [ "external", "intersection" ],
     "id" : "738"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#spices",
@@ -2205,12 +2205,12 @@
       "altLabel" : [ {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Rosa",
+        "value" : "Rosa Pizza",
         "type" : "label"
       }, {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Rosa Pizza",
+        "value" : "Rosa",
         "type" : "label"
       } ]
     },
@@ -2376,7 +2376,7 @@
     "comment" : {
       "en" : "An alternative definition for the SpicyPizza which does away with needing a definition of SpicyTopping and uses a slightly more complicated restriction: Pizzas that have at least one topping that is both a PizzaTopping and has spiciness hot are members of this class."
     },
-    "attributes" : [ "intersection", "external" ],
+    "attributes" : [ "external", "intersection" ],
     "id" : "857"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#FruttiDiMare",
@@ -2392,12 +2392,12 @@
       "altLabel" : [ {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Frutti Di Mare Pizza",
+        "value" : "Frutti Di Mare",
         "type" : "label"
       }, {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Frutti Di Mare",
+        "value" : "Frutti Di Mare Pizza",
         "type" : "label"
       } ]
     },
@@ -2443,12 +2443,12 @@
       "altLabel" : [ {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Sloppy Giuseppe",
+        "value" : "Sloppy Giuseppe Pizza",
         "type" : "label"
       }, {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Sloppy Giuseppe Pizza",
+        "value" : "Sloppy Giuseppe",
         "type" : "label"
       } ]
     },
@@ -2546,12 +2546,12 @@
       "altLabel" : [ {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Quattro Formaggi Pizza",
+        "value" : "Quattro Formaggi",
         "type" : "label"
       }, {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "Quattro Formaggi",
+        "value" : "Quattro Formaggi Pizza",
         "type" : "label"
       } ]
     },
@@ -2587,12 +2587,12 @@
       "altLabel" : [ {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "American Cold Pizza",
+        "value" : "American Cold",
         "type" : "label"
       }, {
         "identifier" : "altLabel",
         "language" : "en",
-        "value" : "American Cold",
+        "value" : "American Cold Pizza",
         "type" : "label"
       } ]
     },
@@ -2688,7 +2688,7 @@
     "comment" : {
       "en" : "An alternative to VegetarianPizzaEquiv1 that does not require a definition of VegetarianTopping. Perhaps more difficult to maintain. Not equivalent to VegetarianPizza"
     },
-    "attributes" : [ "intersection", "external" ],
+    "attributes" : [ "external", "intersection" ],
     "id" : "898"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#VegetarianPizzaEquivalent1",
@@ -2711,7 +2711,7 @@
     "comment" : {
       "en" : "Any pizza that only has vegetarian toppings or no toppings is a VegetarianPizzaEquiv1. Should be inferred to be equivalent to VegetarianPizzaEquiv2.  Not equivalent to VegetarianPizza because PizzaTopping is not covering"
     },
-    "attributes" : [ "intersection", "external" ],
+    "attributes" : [ "external", "intersection" ],
     "id" : "899"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#AnchoviesTopping",
@@ -2777,7 +2777,7 @@
       "en" : "CheesyPizza"
     },
     "intersection" : [ "48" ],
-    "attributes" : [ "intersection", "external" ],
+    "attributes" : [ "external", "intersection" ],
     "id" : "900"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#AmericanHot",
@@ -5303,7 +5303,7 @@
     "comment" : {
       "en" : "NB Transitive - the ingredients of ingredients are ingredients of the whole"
     },
-    "attributes" : [ "transitive", "object", "external" ],
+    "attributes" : [ "external", "object", "transitive" ],
     "id" : "38"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5318,7 +5318,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "43"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5333,7 +5333,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "46"
   }, {
     "range" : "49",
@@ -5353,7 +5353,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "50"
   }, {
     "range" : "53",
@@ -5373,7 +5373,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "54"
   }, {
     "range" : "1",
@@ -5396,7 +5396,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "60"
   }, {
     "range" : "64",
@@ -5419,7 +5419,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "67"
   }, {
     "range" : "18",
@@ -5442,7 +5442,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "72"
   }, {
     "range" : "24",
@@ -5467,7 +5467,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "77"
   }, {
     "range" : "29",
@@ -5492,7 +5492,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "81"
   }, {
     "range" : "33",
@@ -5517,7 +5517,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "85"
   }, {
     "range" : "49",
@@ -5542,7 +5542,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "89"
   }, {
     "range" : "53",
@@ -5587,7 +5587,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "100"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5602,7 +5602,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "102"
   }, {
     "range" : "53",
@@ -5622,7 +5622,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "105"
   }, {
     "range" : "104",
@@ -5642,7 +5642,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "107"
   }, {
     "range" : "12",
@@ -5667,7 +5667,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "111"
   }, {
     "range" : "104",
@@ -5697,7 +5697,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "117"
   }, {
     "range" : "104",
@@ -5717,7 +5717,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "120"
   }, {
     "range" : "104",
@@ -5737,7 +5737,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "122"
   }, {
     "range" : "104",
@@ -5757,7 +5757,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "124"
   }, {
     "range" : "29",
@@ -5777,7 +5777,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "127"
   }, {
     "range" : "33",
@@ -5835,7 +5835,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "137"
   }, {
     "range" : "12",
@@ -5853,7 +5853,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "140"
   }, {
     "range" : "18",
@@ -5928,7 +5928,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "156"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -5943,7 +5943,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "158"
   }, {
     "range" : "4",
@@ -5963,7 +5963,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "160"
   }, {
     "range" : "64",
@@ -6393,7 +6393,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "251"
   }, {
     "range" : "108",
@@ -6413,7 +6413,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "254"
   }, {
     "range" : "108",
@@ -6433,7 +6433,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "260"
   }, {
     "range" : "108",
@@ -6453,7 +6453,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "262"
   }, {
     "range" : "108",
@@ -6473,7 +6473,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "264"
   }, {
     "range" : "108",
@@ -6493,7 +6493,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "266"
   }, {
     "range" : "108",
@@ -6513,7 +6513,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "268"
   }, {
     "range" : "108",
@@ -6533,7 +6533,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "270"
   }, {
     "range" : "108",
@@ -6553,7 +6553,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "272"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -6568,7 +6568,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "273"
   }, {
     "range" : "59",
@@ -6643,7 +6643,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "290"
   }, {
     "range" : "108",
@@ -6663,7 +6663,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "293"
   }, {
     "range" : "108",
@@ -6683,7 +6683,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "295"
   }, {
     "range" : "108",
@@ -6703,7 +6703,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "297"
   }, {
     "range" : "108",
@@ -6723,7 +6723,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "299"
   }, {
     "range" : "108",
@@ -6743,7 +6743,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "301"
   }, {
     "range" : "108",
@@ -6761,7 +6761,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "303"
   }, {
     "range" : "108",
@@ -6789,7 +6789,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "309"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -6804,7 +6804,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "310"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#isIngredientOf",
@@ -6818,7 +6818,7 @@
     "comment" : {
       "en" : "The inverse property tree to hasIngredient - all subproperties and attributes of the properties should reflect those under hasIngredient."
     },
-    "attributes" : [ "transitive", "object", "external" ],
+    "attributes" : [ "external", "object", "transitive" ],
     "id" : "40"
   }, {
     "range" : "104",
@@ -7168,7 +7168,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "392"
   }, {
     "range" : "37",
@@ -7193,7 +7193,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "395"
   }, {
     "range" : "66",
@@ -7213,7 +7213,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "397"
   }, {
     "range" : "104",
@@ -7401,7 +7401,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "434"
   }, {
     "range" : "4",
@@ -7866,7 +7866,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "532"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -7881,7 +7881,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "533"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -7896,7 +7896,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "534"
   }, {
     "range" : "7",
@@ -8036,7 +8036,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "562"
   }, {
     "range" : "247",
@@ -8086,7 +8086,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "570"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -8101,7 +8101,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "571"
   }, {
     "range" : "10",
@@ -8326,7 +8326,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "614"
   }, {
     "range" : "2",
@@ -8351,7 +8351,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "617"
   }, {
     "range" : "29",
@@ -8376,7 +8376,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "620"
   }, {
     "range" : "33",
@@ -8401,7 +8401,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "623"
   }, {
     "range" : "49",
@@ -8426,7 +8426,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "626"
   }, {
     "range" : "53",
@@ -8469,7 +8469,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "634"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#isSameAs",
@@ -8479,7 +8479,7 @@
       "IRI-based" : "isSameAs"
     },
     "domain" : "49",
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "635"
   }, {
     "range" : "125",
@@ -8497,7 +8497,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "637"
   }, {
     "range" : "515",
@@ -8515,7 +8515,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "639"
   }, {
     "range" : "2",
@@ -8540,7 +8540,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "642"
   }, {
     "range" : "2",
@@ -8565,7 +8565,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "645"
   }, {
     "range" : "2",
@@ -8590,7 +8590,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "648"
   }, {
     "range" : "27",
@@ -8615,7 +8615,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "651"
   }, {
     "range" : "2",
@@ -8638,7 +8638,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "654"
   }, {
     "range" : "2",
@@ -8661,7 +8661,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "657"
   }, {
     "range" : "2",
@@ -8684,7 +8684,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "660"
   }, {
     "range" : "104",
@@ -8726,7 +8726,7 @@
     },
     "superproperty" : [ "38" ],
     "domain" : "48",
-    "attributes" : [ "inverse functional", "functional", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional" ],
     "id" : "41"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -8741,7 +8741,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "667"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -8756,7 +8756,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "668"
   }, {
     "range" : "516",
@@ -8776,7 +8776,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "670"
   }, {
     "range" : "516",
@@ -8796,7 +8796,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "672"
   }, {
     "range" : "27",
@@ -8934,7 +8934,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "699"
   }, {
     "range" : "35",
@@ -9119,7 +9119,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "734"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9134,7 +9134,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "735"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9149,7 +9149,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "736"
   }, {
     "range" : "443",
@@ -9167,7 +9167,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "739"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -9180,7 +9180,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "740"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -9193,7 +9193,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "741"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -9206,7 +9206,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "742"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9221,7 +9221,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "743"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9236,7 +9236,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "744"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -9249,7 +9249,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "745"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9264,7 +9264,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "746"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9279,7 +9279,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "747"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -9292,7 +9292,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "748"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9307,7 +9307,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "749"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9322,7 +9322,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "750"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9337,7 +9337,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "751"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -9350,7 +9350,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "752"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9365,7 +9365,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "753"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9380,7 +9380,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "754"
   }, {
     "range" : "482",
@@ -9413,7 +9413,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "759"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9428,7 +9428,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "760"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9443,7 +9443,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "761"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9458,7 +9458,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "762"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9473,7 +9473,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "763"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9488,7 +9488,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "764"
   }, {
     "range" : "8",
@@ -9526,7 +9526,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "771"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -9539,7 +9539,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "772"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9554,7 +9554,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "773"
   }, {
     "range" : "48",
@@ -9584,7 +9584,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "777"
   }, {
     "range" : "358",
@@ -9604,7 +9604,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "779"
   }, {
     "range" : "516",
@@ -9622,7 +9622,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "781"
   }, {
     "range" : "516",
@@ -9652,7 +9652,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "785"
   }, {
     "range" : "516",
@@ -9672,7 +9672,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "787"
   }, {
     "range" : "516",
@@ -9692,7 +9692,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "789"
   }, {
     "range" : "516",
@@ -9717,7 +9717,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "792"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9732,7 +9732,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "793"
   }, {
     "range" : "358",
@@ -9752,7 +9752,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "795"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -9765,7 +9765,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "796"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasBase",
@@ -9777,7 +9777,7 @@
     },
     "superproperty" : [ "38" ],
     "domain" : "687",
-    "attributes" : [ "inverse functional", "functional", "allValues", "object", "external" ],
+    "attributes" : [ "allValues", "external", "object", "functional", "inverse functional" ],
     "id" : "797"
   }, {
     "range" : "516",
@@ -9795,7 +9795,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "799"
   }, {
     "range" : "358",
@@ -9815,7 +9815,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "801"
   }, {
     "range" : "358",
@@ -9835,7 +9835,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "803"
   }, {
     "range" : "358",
@@ -9855,7 +9855,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "805"
   }, {
     "range" : "358",
@@ -9873,7 +9873,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "807"
   }, {
     "range" : "358",
@@ -9893,7 +9893,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "809"
   }, {
     "range" : "358",
@@ -9913,7 +9913,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "811"
   }, {
     "range" : "358",
@@ -9938,7 +9938,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "814"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9953,7 +9953,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "815"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9968,7 +9968,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "816"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9983,7 +9983,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "817"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -9998,7 +9998,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "818"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -10013,7 +10013,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "819"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -10028,7 +10028,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "820"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -10043,7 +10043,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "821"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -10058,7 +10058,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "822"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -10073,7 +10073,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "823"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -10088,7 +10088,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "824"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -10103,7 +10103,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "825"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -10118,7 +10118,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "826"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -10133,7 +10133,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "827"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -10148,7 +10148,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "828"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -10163,7 +10163,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "829"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -10178,7 +10178,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "830"
   }, {
     "range" : "118",
@@ -10198,7 +10198,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "832"
   }, {
     "range" : "279",
@@ -10223,7 +10223,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "835"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -10238,7 +10238,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "836"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -10253,7 +10253,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "837"
   }, {
     "range" : "53",
@@ -10273,7 +10273,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "839"
   }, {
     "range" : "33",
@@ -10291,7 +10291,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "841"
   }, {
     "range" : "66",
@@ -10309,7 +10309,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "843"
   }, {
     "range" : "53",
@@ -10327,7 +10327,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "845"
   }, {
     "range" : "49",
@@ -10342,7 +10342,7 @@
       "IRI-based" : "isHypernym"
     },
     "domain" : "104",
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "847"
   }, {
     "range" : "66",
@@ -10360,7 +10360,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "someValues" ],
     "id" : "849"
   }, {
     "range" : "53",
@@ -10377,7 +10377,7 @@
     },
     "superproperty" : [ "38" ],
     "domain" : "48",
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "851"
   }, {
     "range" : "66",
@@ -10397,7 +10397,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "853"
   }, {
     "range" : "66",
@@ -10417,7 +10417,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "someValues", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional", "someValues" ],
     "id" : "855"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasTopping",
@@ -10432,7 +10432,7 @@
     "comment" : {
       "en" : "Note that hasTopping is inverse functional because isToppingOf is functional"
     },
-    "attributes" : [ "inverse functional", "functional", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional" ],
     "id" : "42"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#isBaseOf",
@@ -10443,7 +10443,7 @@
     },
     "superproperty" : [ "40" ],
     "domain" : "311",
-    "attributes" : [ "inverse functional", "functional", "object", "external" ],
+    "attributes" : [ "external", "object", "functional", "inverse functional" ],
     "id" : "312"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#hasSpiciness",
@@ -10456,7 +10456,7 @@
     "comment" : {
       "en" : "A property created to be used with the ValuePartition - Spiciness."
     },
-    "attributes" : [ "functional", "object", "external" ],
+    "attributes" : [ "external", "object", "functional" ],
     "id" : "856"
   }, {
     "iri" : "https://serc.iiit.ac.in/downloads/ontology/test.owl#isToppingOf",
@@ -10470,7 +10470,7 @@
     "comment" : {
       "en" : "Any given instance of topping should only be added to a single pizza (no cheap half-measures on our pizzas)"
     },
-    "attributes" : [ "functional", "object", "external" ],
+    "attributes" : [ "external", "object", "functional" ],
     "id" : "45"
   }, {
     "range" : "64",
@@ -10680,7 +10680,7 @@
       "IRI-based" : "hasCountryOfOrigin"
     },
     "domain" : "311",
-    "attributes" : [ "object", "external" ],
+    "attributes" : [ "external", "object" ],
     "id" : "901"
   } ]
 }

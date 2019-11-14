@@ -14,7 +14,7 @@ from tweepy import Cursor
 from datetime import datetime, date, time, timedelta
 from collections import Counter 
 import string
-model = KeyedVectors.load_word2vec_format("./word2vec_twitter_model.bin", binary=True, unicode_errors='ignore')
+# model = KeyedVectors.load_word2vec_format("./word2vec_twitter_model.bin", binary=True, unicode_errors='ignore')
 import sys
 from collections import defaultdict
 from sqlalchemy import create_engine
@@ -28,13 +28,15 @@ def generateScore(text):
     count = 0
     for word in words:
         try:
-            sim1 = model.similarity(word, "pizza")
-            sim2 = model.similarity(word, "garlicbread")
-            sim3 = model.similarity(word, "toppings")
-            # # sim4 = model.similarity(word, "cryptography")
-            score = (sim1 + sim2 + sim3)/3
-            totalScore += score
-            count += 1
+            # sim1 = model.similarity(word, "pizza")
+            # sim2 = model.similarity(word, "garlicbread")
+            # sim3 = model.similarity(word, "toppings")
+            # # # sim4 = model.similarity(word, "cryptography")
+            # score = (sim1 + sim2 + sim3)/3
+            # totalScore += score
+            # count += 1
+            totalScore = 200
+            count = 300
         except:
             continue
     try:     
@@ -92,7 +94,9 @@ def add_relation_with_credibility_only(twitter_users):
             print(tup[2])
             print(tup[3])
             if(tup[1] == o['property'] and tup[2] == o['domain'] and tup[3] == o['range']):
+                print("Yo")
                 relation_dict[tup]+=(o['approved']*twitter_users[o['user_id']])
+                print(twitter_users[o['user_id']])
                 relation_count[tup]+=twitter_users[o['user_id']]
             else:
                 pass
