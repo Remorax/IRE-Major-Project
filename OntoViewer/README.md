@@ -1,4 +1,5 @@
 # Ontology Determiner
+#ONTOLOGY VIEWER
 
 # Requirements:
 - python3 and pip are prerequisites
