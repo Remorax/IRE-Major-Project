@@ -403,7 +403,10 @@ def add_node_decision(user_id, name, onto_id, decision):
         'onto_id': onto_id,
         'name': name,
     })
-
+    print(user_id)
+    print(onto_id)
+    print(decision)
+    print(name)
     node_id = result.fetchone()['id']
 
     result = db.engine.execute("""SELECT * FROM node_decisions 

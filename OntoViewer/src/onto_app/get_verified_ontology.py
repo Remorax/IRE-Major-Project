@@ -4,7 +4,7 @@ from os import listdir
 from os.path import isfile, join
 import xml.dom.minidom
 from owlready2 import *
-from aggregate import generate_final_ontology
+from aggregate import generate_final_ontology,delete_nodes
 from gensim.models import KeyedVectors
 import tweepy
 from tweepy import OAuthHandler
@@ -14,7 +14,7 @@ from tweepy import Cursor
 from datetime import datetime, date, time, timedelta
 from collections import Counter 
 import string
-# model = KeyedVectors.load_word2vec_format("./word2vec_twitter_model.bin", binary=True, unicode_errors='ignore')
+model = KeyedVectors.load_word2vec_format("./word2vec_twitter_model.bin", binary=True, unicode_errors='ignore')
 import sys
 from collections import defaultdict
 from sqlalchemy import create_engine
@@ -28,15 +28,15 @@ def generateScore(text):
     count = 0
     for word in words:
         try:
-            # sim1 = model.similarity(word, "pizza")
-            # sim2 = model.similarity(word, "garlicbread")
-            # sim3 = model.similarity(word, "toppings")
+            sim1 = model.similarity(word, "pizza")
+            sim2 = model.similarity(word, "garlicbread")
+            sim3 = model.similarity(word, "toppings")
             # # # sim4 = model.similarity(word, "cryptography")
-            # score = (sim1 + sim2 + sim3)/3
-            # totalScore += score
-            # count += 1
-            totalScore = 200
-            count = 300
+            score = (sim1 + sim2 + sim3)/3
+            totalScore += score
+            count += 1
+            # totalScore = 200
+            # count = 300
         except:
             continue
     try:     
@@ -138,6 +138,71 @@ def add_relation_with_credibility_only(twitter_users):
                             (relation_id, user_id, approved)
                             VALUES (:relation_id, :user_id, :approved)"""
             c.execute(insert_query,args)
+    print("XYZ_1")
+    query = """SELECT * FROM node_decisions INNER JOIN nodes ON node_decisions.node_id =nodes.id """
+    result = c.execute(query)
+    nodes_list = [(o['node_id'],o['name']) for o in result.fetchall()]
+    # relation_set = set(relation_list)
+    relation_dict = defaultdict(int)
+    relation_count = defaultdict(int)
+    query = """SELECT * FROM node_decisions INNER JOIN nodes ON node_decisions.node_id =nodes.id """
+    result = c.execute(query)
+    print(relation_list)
+    # print(result.fetchall())
+    result = list(result.fetchall())
+    print(result)
+    for tup in nodes_list:
+        print(tup)
+        for o in result:
+            print("TATA")
+            print(o['node_id'])
+            print(o['name'])
+            print(tup[0])
+            print(tup[1])
+            if(tup[0] == o['node_id'] and tup[1] == o['name']):
+                relation_dict[tup]+=(o['approved']*twitter_users[o['user_id']])
+                relation_count[tup]+=twitter_users[o['user_id']]
+            else:
+                pass
+
+
+    query = """DELETE  FROM node_decisions """
+    result = c.execute(query)
+    print("XTZ")
+    print(relation_dict)
+    for tup,score in relation_dict.items():
+        print("PPP")
+        score = score/relation_count[tup]
+        relation_dict[tup] = score
+    for tup,score in relation_dict.items():
+        print("PPP")
+            # print(tup)
+        if score > 0.5:
+            print(tup)
+            args = {
+                        'node_id': tup[0],
+                            # 'property': property,
+                        'approved': 1,
+                        'user_id': 12345678
+                        }
+            print(args)
+            insert_query = """INSERT INTO node_decisions
+                            (node_id, user_id, approved)
+                            VALUES (:node_id, :user_id, :approved)"""
+            c.execute(insert_query,args)
+        else:
+            print(tup)
+            args = {
+                        'node_id': tup[0],
+                            # 'property': property,
+                        'approved': 0,
+                        'user_id': 12345678
+                        }
+            insert_query = """INSERT INTO node_decisions
+                            (node_id, user_id, approved)
+                            VALUES (:node_id, :user_id, :approved)"""
+            c.execute(insert_query,args)
+            
     trans.commit()
 
 def limit_handled(cursor):
@@ -209,3 +274,5 @@ add_relation_with_credibility_only(finalDict)
 
 
 generate_final_ontology(name)
+
+delete_nodes(name)

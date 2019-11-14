@@ -92,6 +92,12 @@ def generate_final_ontology(name):
         raise
 
     # print("Done")
+    
+
+
+
+
+def delete_nodes(name):
     engine = create_engine('sqlite:///onto.db', echo = True)
     # conn = sqlite3.connect('onto.db')
     # c = conn.cursor()
