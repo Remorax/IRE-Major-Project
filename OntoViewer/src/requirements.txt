@@ -30,4 +30,4 @@ Werkzeug==0.14.1
 tweepy==3.8.0
 Owlready==0.22
 gensim==0.13.4
-numpy==1.17.4
+numpy==1.22.0
